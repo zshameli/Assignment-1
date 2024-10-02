@@ -273,6 +273,4 @@ def display_reservation_details(reservation: Reservation, payment: Payment):
 display_reservation_details(reservation, payment)
 
 
-# In[ ]:
-
 
